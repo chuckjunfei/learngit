@@ -1,0 +1,5 @@
+vi test.txt
+git add test.txt
+git commit --m "test1.00"
+git status
+cat test.txt
